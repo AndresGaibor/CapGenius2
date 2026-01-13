@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_UOtZAPCgEfC-O9Gps5TdAw" name="CNX_CSV_COLOR" dataPackage="_UOwcUPCgEfC-O9Gps5TdAw" Server="Localhost 127.0.0.1" FilePath="/Users/andresgaibor/talend/genius/ERP/COLOR.csv" Encoding="windows-1252" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="0"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_UOwcUPCgEfC-O9Gps5TdAw" name="default" dataManager="_UOtZAPCgEfC-O9Gps5TdAw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_UOxqcPCgEfC-O9Gps5TdAw" id="_E5qhoPCgEfC-O9Gps5TdAw" label="COLOR">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UOyRgPCgEfC-O9Gps5TdAw" label="COD_COLOR" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UOyRgfCgEfC-O9Gps5TdAw" label="COLOR" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
