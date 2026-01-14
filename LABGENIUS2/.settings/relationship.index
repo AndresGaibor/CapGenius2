@@ -72,6 +72,65 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_HKAUEPGGEfC5hJtUN7kixg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2ggd8PFTEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PPS8APGNEfC5hJtUN7kixg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_UOmrUPCgEfC-O9Gps5TdAw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dJi1sPFTEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gQoIMPCfEfC-O9Gps5TdAw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_mIGKgPCiEfC-O9Gps5TdAw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_rjmEcPFTEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_2ggd8PFTEfC-tpErObbTlw - SUB_GRUPO_PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_UOmrUPCgEfC-O9Gps5TdAw - COLOR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dJi1sPFTEfC-tpErObbTlw - MARCA",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gQoIMPCfEfC-O9Gps5TdAw - PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_mIGKgPCiEfC-O9Gps5TdAw - GRUPO_PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_rjmEcPFTEfC-tpErObbTlw - MODELO",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_IRQQ0PFWEfC-tpErObbTlw",
     "version" : "0.1",
     "type" : "job"
