@@ -38,6 +38,21 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_27hskPGAEfC5hJtUN7kixg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "LABGENIUS2:_M4If4PFXEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "LABGENIUS2:_rqjyoPFUEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_8b9BUPFWEfC-tpErObbTlw",
     "version" : "0.1",
     "type" : "job"
@@ -73,6 +88,21 @@
     "id" : "_mIGKgPCiEfC-O9Gps5TdAw - GRUPO_PRODUCTO",
     "version" : "Latest",
     "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_KLceEPGBEfC5hJtUN7kixg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "LABGENIUS2:_V2DdIPFXEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "LABGENIUS2:_ZqplkPFWEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
   } ]
 }, {
   "baseItem" : {
@@ -130,6 +160,25 @@
     "id" : "_p1NakPFUEfC-tpErObbTlw - UBICACION_GEOGRAFICA",
     "version" : "Latest",
     "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_VG7UMPGBEfC5hJtUN7kixg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "LABGENIUS2:_0GwGYPFVEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "LABGENIUS2:_e4TLoPFVEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "LABGENIUS2:_q9xvsPFVEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
   } ]
 }, {
   "baseItem" : {
@@ -206,6 +255,37 @@
     "id" : "_UOmrUPCgEfC-O9Gps5TdAw - COLOR",
     "version" : "Latest",
     "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_qMpi0PFXEfC-tpErObbTlw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "LABGENIUS2:_-evZ4PDREfCOB_7p00PwsQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "LABGENIUS2:_8b9BUPFWEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "LABGENIUS2:_IRQQ0PFWEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "LABGENIUS2:_QgKocPFVEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "LABGENIUS2:_ntUPEPFWEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "LABGENIUS2:_w6ESgPFWEfC-tpErObbTlw",
+    "version" : "Latest",
+    "type" : "job"
   } ]
 }, {
   "baseItem" : {
